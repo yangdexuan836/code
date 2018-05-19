@@ -1,0 +1,8 @@
+.logo {
+	width: 140px;
+	margin-left: 10px;
+	margin-top: 14px;
+}
+.item {
+	line-height: 36px !important;
+}
